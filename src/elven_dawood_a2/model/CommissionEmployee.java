@@ -1,5 +1,5 @@
 package elven_dawood_a2.model;
-
+// Assignment 2
 import elven_dawood_a2.model.Employee;
 
 /**
